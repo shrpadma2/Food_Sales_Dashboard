@@ -24,6 +24,7 @@ The following project tasks are required to be performed in Excel:
 * Prepare a pivot table to visualize Top 10 customers
 * prepare a pivot table to visualize sales based on delivery person and region
 * prepare a pivot table to visualize month and year wise sales
+* Create slicers with respect to year, region and delivery person
 
 
  
